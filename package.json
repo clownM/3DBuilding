@@ -1,0 +1,32 @@
+{
+  "name": "3dbuilding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "_maptalks.three@0.6.2@maptalks.three": "^0.6.2",
+    "_maptalks@0.44.2@maptalks": "^0.44.2",
+    "_three@0.104.0@three": "^0.104.0",
+    "_simplify-js@1.2.3@simplify-js": "^1.2.3",
+    "maptalks": "^0.44.2",
+    "maptalks.three": "^0.6.2",
+    "simplify-js": "^1.2.3",
+    "three": "^0.104.0",
+    "zousan": "^2.5.1",
+    "_zousan@2.5.1@zousan": "^2.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clownM/3DBuilding.git"
+  },
+  "author": "MChen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clownM/3DBuilding/issues"
+  },
+  "homepage": "https://github.com/clownM/3DBuilding#readme"
+}
